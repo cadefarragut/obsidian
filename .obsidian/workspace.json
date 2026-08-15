@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4697b71cc896f6b2",
+        "id": "2e23ad728f075ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "3e73188ac39812af",
+            "id": "841a48c74092ba0a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "right": {
     "id": "b7190f901c1eb9ff",
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/websites/learnopengl/learnopengl - Creating a window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Material/websites/learnopengl/learnopengl - Creating a window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 - Source Material/websites/learnopengl/learnopengl - Creating a window.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,10 +184,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e73188ac39812af",
+  "active": "841a48c74092ba0a",
   "lastOpenFiles": [
-    "2 - Source Material/websites/learnopengl/learnopengl - Creating a window.md",
     "5 - Templates/Full Note.md",
+    "6 - Main Notes/OpenGL functions are resolved at runtime, not link time.md",
+    "6 - Main Notes/OpenGL specifies rendering only, so windowing and loading are external.md",
+    "3 - Tags/OpenGL.md",
+    "2 - Source Material/websites/learnopengl/Hello Window.md",
+    "2 - Source Material/websites/learnopengl/Hello Triangle.md",
+    "6 - Main Notes/Main Notes.md",
+    "6 - Main Notes/2026-08-15.md",
+    "2 - Source Material/attachments/Pasted image 20260815162501.png",
+    "2 - Source Material/attachments/Pasted image 20260815160604.png",
+    "2 - Source Material/attachments/Pasted image 20260815153105.png",
+    "2 - Source Material/attachments/Pasted image 20260815152503.png",
+    "2 - Source Material/attachments/Pasted image 20260815143636.png",
+    "2 - Source Material/attachments/Pasted image 20260813235557.png",
+    "2 - Source Material/attachments",
+    "2 - Source Material/websites/learnopengl/Pasted image 20260813233658.png",
     "2 - Source Material/websites/learnopengl/Untitled",
     "2 - Source Material/websites/learnopengl.com.md",
     "2 - Source Material/websites/learnopengl",
@@ -196,7 +213,6 @@
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
-    "3 - Tags",
-    "2 - Source Material"
+    "3 - Tags"
   ]
 }
