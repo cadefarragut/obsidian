@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 334.5
   },
   "right": {
     "id": "b7190f901c1eb9ff",
@@ -186,22 +186,30 @@
   },
   "active": "841a48c74092ba0a",
   "lastOpenFiles": [
-    "5 - Templates/Full Note.md",
-    "6 - Main Notes/OpenGL functions are resolved at runtime, not link time.md",
-    "6 - Main Notes/OpenGL specifies rendering only, so windowing and loading are external.md",
-    "3 - Tags/OpenGL.md",
-    "2 - Source Material/websites/learnopengl/Hello Window.md",
+    "6 - Main Notes/Rendering Geometry with the OpenGL Graphics Pipeline.md",
     "2 - Source Material/websites/learnopengl/Hello Triangle.md",
+    "2 - Source Material/websites/learnopengl/Hello Window.md",
+    "6 - Main Notes/OpenGL specifies rendering only, so windowing and loading are external.md",
+    "6 - Main Notes/OpenGL functions are resolved at runtime, not link time.md",
+    "2 - Source Material/attachments/Pasted image 20260816164651.png",
+    "2 - Source Material/attachments/Pasted image 20260816164059.png",
+    "2 - Source Material/attachments/Pasted image 20260816163925.png",
+    "2 - Source Material/attachments/Pasted image 20260816135318.png",
+    "2 - Source Material/attachments/Pasted image 20260816133508.png",
+    "2 - Source Material/attachments/Pasted image 20260816133258.png",
+    "2 - Source Material/attachments/Pasted image 20260816131222.png",
+    "2 - Source Material/attachments/Pasted image 20260816131212.png",
+    "2 - Source Material/attachments/Pasted image 20260816131200.png",
+    "2 - Source Material/attachments/Pasted image 20260816125700.png",
+    "4 - Indexes/Genesis.md",
+    "2 - Source Material/books/Bible/Genesis.md",
+    "3 - Tags/OpenGL.md",
+    "2 - Source Material/books/Bible",
+    "4 - Indexes/Untitled",
+    "5 - Templates/Full Note.md",
     "6 - Main Notes/Main Notes.md",
     "6 - Main Notes/2026-08-15.md",
-    "2 - Source Material/attachments/Pasted image 20260815162501.png",
-    "2 - Source Material/attachments/Pasted image 20260815160604.png",
-    "2 - Source Material/attachments/Pasted image 20260815153105.png",
-    "2 - Source Material/attachments/Pasted image 20260815152503.png",
-    "2 - Source Material/attachments/Pasted image 20260815143636.png",
-    "2 - Source Material/attachments/Pasted image 20260813235557.png",
     "2 - Source Material/attachments",
-    "2 - Source Material/websites/learnopengl/Pasted image 20260813233658.png",
     "2 - Source Material/websites/learnopengl/Untitled",
     "2 - Source Material/websites/learnopengl.com.md",
     "2 - Source Material/websites/learnopengl",
@@ -211,8 +219,6 @@
     "2 - Source Material/websites",
     "Welcome.md",
     "6 - Main Notes",
-    "5 - Templates",
-    "4 - Indexes",
-    "3 - Tags"
+    "5 - Templates"
   ]
 }
