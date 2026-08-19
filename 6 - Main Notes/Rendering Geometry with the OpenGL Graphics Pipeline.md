@@ -16,6 +16,8 @@ Vertex data is stored in Vertex Buffer Objects (VBOs). A VBO contains the raw da
 
 glVertexAttribPointer describes the layout of the vertex attribute, including its type, size, stride, and offset. A Vertex Array Object (VAO) stores the vertex attribute configuration, allowing the configuration to be restored by binding the VAO instead of configuring the vertex attributes again.
 
+the Attribute pointer points to the VBO that is currently binded. This is how it knows which data to pointer to when the VAO is walked through.
+
 An Element Buffer Object (EBO) stores indices that reference vertices stored in vertex buffers. This allows the same vertex to be reused when multiple primitives share it, rather than storing duplicate vertex data.
 
 glDrawArrays draws primitives directly from the vertex data, while glDrawElements uses indices from an EBO to determine which vertices should be used.

@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "6 - Main Notes",
-  "attachmentFolderPath": "2 - Source Material/attachments"
+  "attachmentFolderPath": "2 - Source Material/attachments",
+  "alwaysUpdateLinks": true
 }

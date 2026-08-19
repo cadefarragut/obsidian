@@ -11,10 +11,24 @@
             "id": "841a48c74092ba0a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/books/Bible/Genesis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Genesis"
             }
           }
         ]
@@ -186,11 +200,18 @@
   },
   "active": "841a48c74092ba0a",
   "lastOpenFiles": [
+    "4 - Indexes/Genesis.md",
     "6 - Main Notes/Rendering Geometry with the OpenGL Graphics Pipeline.md",
-    "2 - Source Material/websites/learnopengl/Hello Triangle.md",
-    "2 - Source Material/websites/learnopengl/Hello Window.md",
+    "2 - Source Material/websites/learnopengl/Shaders.md",
+    "2 - Source Material/attachments/Pasted image 20260818181337.png",
+    "2 - Source Material/books/Bible/Genesis.md",
+    "3 - Tags/Genesis.md",
+    "6 - Main Notes/idk.md",
+    "3 - Tags/OpenGL.md",
     "6 - Main Notes/OpenGL specifies rendering only, so windowing and loading are external.md",
     "6 - Main Notes/OpenGL functions are resolved at runtime, not link time.md",
+    "2 - Source Material/websites/learnopengl/Hello Triangle.md",
+    "2 - Source Material/websites/learnopengl/Hello Window.md",
     "2 - Source Material/attachments/Pasted image 20260816164651.png",
     "2 - Source Material/attachments/Pasted image 20260816164059.png",
     "2 - Source Material/attachments/Pasted image 20260816163925.png",
@@ -200,10 +221,6 @@
     "2 - Source Material/attachments/Pasted image 20260816131222.png",
     "2 - Source Material/attachments/Pasted image 20260816131212.png",
     "2 - Source Material/attachments/Pasted image 20260816131200.png",
-    "2 - Source Material/attachments/Pasted image 20260816125700.png",
-    "4 - Indexes/Genesis.md",
-    "2 - Source Material/books/Bible/Genesis.md",
-    "3 - Tags/OpenGL.md",
     "2 - Source Material/books/Bible",
     "4 - Indexes/Untitled",
     "5 - Templates/Full Note.md",
